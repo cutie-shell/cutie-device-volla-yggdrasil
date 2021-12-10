@@ -1,6 +1,6 @@
 
 ## $Id$
-# Maintainer: Chupligin Sergey (NeoChapay) <neochapay@gmail.com>
+# Maintainer: CErik Inkinen <erik.inkinen@gmail.com>
 
 _host="github.com"
 _project=manjaro-libhybris
