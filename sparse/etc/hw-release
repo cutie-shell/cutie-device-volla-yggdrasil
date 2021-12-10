@@ -1,0 +1,8 @@
+NAME="Volla Phone"
+ID=yggdrasil
+MER_HA_DEVICE=yggdrasil
+MER_HA_VENDOR=volla
+VERSION="NEMOVER"
+VERSION_ID=NEMOVER
+PRETTY_NAME=" NEMOVER"
+HOME_URL="https://nemomobile.net/"
