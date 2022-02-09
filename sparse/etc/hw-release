@@ -1,8 +1,8 @@
-NAME="Volla Phone"
-ID=yggdrasil
-MER_HA_DEVICE=yggdrasil
-MER_HA_VENDOR=volla
-VERSION="NEMOVER"
-VERSION_ID=NEMOVER
-PRETTY_NAME=" NEMOVER"
-HOME_URL="https://nemomobile.net/"
+NAME="Google Pixel 3a"
+ID=sargo
+MER_HA_DEVICE=sargo
+MER_HA_VENDOR=google
+VERSION="CUTIEVER"
+VERSION_ID=CUTIEVER
+PRETTY_NAME=" CUTIEVER"
+HOME_URL="https://cutie-shell.org/"
