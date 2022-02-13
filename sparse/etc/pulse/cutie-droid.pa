@@ -30,7 +30,7 @@
  load-module module-droid-keepalive
 .endif
 
-load-module module-droid-card rate=48000 voice_virtual_stream=true
+load-module module-droid-card rate=48000 voice_virtual_stream=true quirks=+no_hw_volume
 
 .ifexists module-droid-hidl.so
  .nofail
